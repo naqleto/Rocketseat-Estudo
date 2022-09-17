@@ -6,7 +6,7 @@
 
 Projeto construido no evnto Next Level week da Rocketseat.
 
-[Clique aqui para acessar](https://naqleto.github.io/nlw-esports-sxplorer/)
+[Clique aqui para acessar](https://naqleto.github.io/nlw-esports-explorer/)
 
 
 ## Tecnologias
